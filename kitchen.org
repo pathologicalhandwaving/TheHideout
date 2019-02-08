@@ -3,7 +3,7 @@
 
 * Kitchen
 
-  - [ ] Removed first layer of linoleum 
+  - [ ] Remove first layer of linoleum 
   - [ ] Scored and put water down on second layer of linoleum
   - [ ] Remove second layer of linoleum 
   - [ ] Belt sand wood floors
