@@ -1,0 +1,13 @@
+#+TITLE: Kitchen
+#+DATE_CREATED: 2019-02-08
+
+* Kitchen
+
+  - [ ] Removed first layer of linoleum 
+  - [ ] Scored and put water down on second layer of linoleum
+  - [ ] Remove second layer of linoleum 
+  - [ ] Belt sand wood floors
+  - [ ] Strip rotted paneling 
+  - [ ] Pull down old wallpaper 
+  - [ ] Rebuild counters
+  - [ ] Make shelves over counters
